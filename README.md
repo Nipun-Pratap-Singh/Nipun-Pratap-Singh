@@ -1,5 +1,5 @@
    
-![MasterHead](https://wallpaperaccess.com/full/7270381.gif)
+![MasterHead](header.gif)
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=4000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Nipun+Pratap+Singh;This+is.my+Github..;" alt="Typing SVG"/>
