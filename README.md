@@ -10,11 +10,7 @@
 </h3> -->
 
 
-
-###
-
-<h1>GitHub Stats:</h1> 
-
+# 📊 GitHub Stats: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Nipun-Pratap-Singh&show_icons=true&theme=dark&locale=en" alt="Nipun-Pratap-Singh" /></td>
@@ -30,7 +26,7 @@
  <!-- <img align="right" height="270" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif"  /> -->
  <!-- <img align="right"  style="padding:50px" height="250" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  /> -->
 
-###
+# 💻 Tech Stack: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 <div>
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
